@@ -10,4 +10,6 @@
 
 ## Branch mergin
 
+* *git mergin branch_name* - Команда, осуществляющая слияние текущей ветки с branch_name. 
+
 ## Conflicts
